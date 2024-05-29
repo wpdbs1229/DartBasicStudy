@@ -49,6 +49,4 @@ void main() {
 
     // const DateTime now2 = DateTime.now(); ->코드를 작성하고 있을 때, 해당 값을 알고 있어야 함
 
-
-
 }
